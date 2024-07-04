@@ -1,7 +1,7 @@
 #function to simulate the data
 #source: libraries.R; expit.R; cancerDataDesign.R; SimulTreat.R; SimulOut.R
-#load dgm_index.csv for dgm identification 
-setwd("/home/lsh2005314/New Basic/Code/")
+#load dgm_index.csv for dgm identification; created from dgm_index.R 
+setwd("~/Code/") #set a wd to where both the code files and dgm_index.csv are located
 dt <- read.csv("dgm_index.csv",header = TRUE)
 source("libraries.R")
 source("expit.R")
