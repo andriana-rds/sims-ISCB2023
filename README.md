@@ -1,7 +1,7 @@
 # sims-ISCB2023
-Simulations of two-level data sets that are analyzed by G-computation and IPTW estimators, combined with random effects models.
+**Simulations of two-level data sets that are analyzed by G-computation and IPTW estimators, combined with random effects models.**
 
-Steps to generate the simulated data sets are the following:
+*Steps to generate the simulated data sets are the following:*
 
 # Step 1: 
 Import required libraries (file: libraries.R)
@@ -15,6 +15,39 @@ Import function to simulate the independent covariates (file: cancerDataDesign.R
 # Step 4: 
 Import functions to simulate the treatment and the potential outcomes (files SimulTreat.R \& SimulOut.R)
 
-# 
+# Step 5: 
+Generate a .csv file with the DGM indices
+
+# Step 6: 
+Combine all functions into one and run via an HPC (file simdata_hpc.R) 
+
+# Step 7: 
+Generate the simulated data sets via the HPC (file test_script.txt) 
+
+
+*Steps to analyze the simulated data sets are the following:*
+
+# Step 1: 
+Import function to exclude clusters with only one treatment level being assigned (file: mydata_excl.R)
+
+# Step 2: 
+Import functions for marginal and clustered IPTW, and DR (AIPTW) (files mrgest.R; clest.R; drest.R, respectively)
+
+# Step 3: 
+Analyze the simulated data sets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
