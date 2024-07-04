@@ -1,0 +1,11 @@
+#!/bin/bash
+#$ -N sim_test
+#$ -M andriana.kostouraki@lshtm.ac.uk -m be
+#$ -q long.q
+#$ -l mem_free=31G,h_vmem=32.2G
+#$ -V -cwd 
+#$ -t 1-4
+
+module load R/3.6.2
+R CMD BATCH simdata_hpc.R test_${SGE_TASK_ID}.out
+
