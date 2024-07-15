@@ -34,7 +34,7 @@ Import function to exclude clusters with only one treatment level being assigned
 Import functions for marginal and clustered IPTW, and DR (AIPTW) (files mrgest.R; clest.R; drest.R, respectively)
 
 # Step 3: 
-Analyze the simulated data sets
+Analyze the simulated data sets (file analysis_hpc.R)
 
 
 
