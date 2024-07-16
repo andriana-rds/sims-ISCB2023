@@ -7,7 +7,7 @@
 Import required libraries (file: libraries.R)
 
 # Step 2: 
-Import function expit() (file: expit.R)
+Import function expit(), i.e., the inverse of the logit() (file: expit.R)
 
 # Step 3: 
 Import function to simulate the independent covariates (file: cancerDataDesign.R)
