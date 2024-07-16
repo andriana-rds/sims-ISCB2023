@@ -1,0 +1,289 @@
+"alpha0","beta0","rho","clus","rr","trt_mod","out_mod","unbal","beta4","true.rd","dgm","prev","rate","correlation","design","true.effect","NCluster","ClusterSize"
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"none","none",0.2,0,0,1,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"none","none",0.2,0,0,2,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"none","none",0.2,0,0,3,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"none","none",0.2,0,0,4,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"none","none",0.2,0,0,5,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"none","none",0.2,0,0,6,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"none","none",0.2,0,0,7,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"none","none",0.2,0,0,8,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"none","none",0.2,0,0,9,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"none","none",0.2,0,0,10,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"none","none",0.2,0,0,11,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"none","none",0.2,0,0,12,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"none","none",0.2,0,0,13,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"none","none",0.2,0,0,14,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"none","none",0.2,0,0,15,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"none","none",0.2,0,0,16,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"none","none",0.2,-0.3147107448397,-0.02,17,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"none","none",0.2,-0.3147107448397,-0.02,18,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"none","none",0.2,-0.41,-0.06,19,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"none","none",0.2,-0.41,-0.06,20,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"none","none",0.2,-0.3147107448397,-0.02,21,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"none","none",0.2,-0.3147107448397,-0.02,22,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"none","none",0.2,-0.41,-0.06,23,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"none","none",0.2,-0.41,-0.06,24,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"none","none",0.2,-0.3147107448397,-0.02,25,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"none","none",0.2,-0.3147107448397,-0.02,26,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"none","none",0.2,-0.41,-0.06,27,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"none","none",0.2,-0.41,-0.06,28,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"none","none",0.2,-0.3147107448397,-0.02,29,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"none","none",0.2,-0.3147107448397,-0.02,30,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"none","none",0.2,-0.41,-0.06,31,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"none","none",0.2,-0.41,-0.06,32,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"random intercept","none",0.2,0,0,33,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"random intercept","none",0.2,0,0,34,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"random intercept","none",0.2,0,0,35,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"random intercept","none",0.2,0,0,36,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"random intercept","none",0.2,0,0,37,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"random intercept","none",0.2,0,0,38,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"random intercept","none",0.2,0,0,39,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"random intercept","none",0.2,0,0,40,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"random intercept","none",0.2,0,0,41,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"random intercept","none",0.2,0,0,42,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"random intercept","none",0.2,0,0,43,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"random intercept","none",0.2,0,0,44,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"random intercept","none",0.2,0,0,45,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"random intercept","none",0.2,0,0,46,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"random intercept","none",0.2,0,0,47,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"random intercept","none",0.2,0,0,48,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"random intercept","none",0.2,-0.3147107448397,-0.02,49,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"random intercept","none",0.2,-0.3147107448397,-0.02,50,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"random intercept","none",0.2,-0.41,-0.06,51,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"random intercept","none",0.2,-0.41,-0.06,52,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","none",0.2,-0.3147107448397,-0.02,53,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","none",0.2,-0.3147107448397,-0.02,54,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","none",0.2,-0.41,-0.06,55,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","none",0.2,-0.41,-0.06,56,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"random intercept","none",0.2,-0.3147107448397,-0.02,57,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"random intercept","none",0.2,-0.3147107448397,-0.02,58,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"random intercept","none",0.2,-0.41,-0.06,59,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"random intercept","none",0.2,-0.41,-0.06,60,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","none",0.2,-0.3147107448397,-0.02,61,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","none",0.2,-0.3147107448397,-0.02,62,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","none",0.2,-0.41,-0.06,63,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","none",0.2,-0.41,-0.06,64,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"random slope","none",0.2,0,0,65,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"random slope","none",0.2,0,0,66,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"random slope","none",0.2,0,0,67,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"random slope","none",0.2,0,0,68,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"random slope","none",0.2,0,0,69,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"random slope","none",0.2,0,0,70,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"random slope","none",0.2,0,0,71,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"random slope","none",0.2,0,0,72,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"random slope","none",0.2,0,0,73,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"random slope","none",0.2,0,0,74,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"random slope","none",0.2,0,0,75,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"random slope","none",0.2,0,0,76,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"random slope","none",0.2,0,0,77,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"random slope","none",0.2,0,0,78,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"random slope","none",0.2,0,0,79,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"random slope","none",0.2,0,0,80,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"random slope","none",0.2,-0.3147107448397,-0.02,81,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"random slope","none",0.2,-0.3147107448397,-0.02,82,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"random slope","none",0.2,-0.41,-0.06,83,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"random slope","none",0.2,-0.41,-0.06,84,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random slope","none",0.2,-0.3147107448397,-0.02,85,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random slope","none",0.2,-0.3147107448397,-0.02,86,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random slope","none",0.2,-0.41,-0.06,87,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random slope","none",0.2,-0.41,-0.06,88,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"random slope","none",0.2,-0.3147107448397,-0.02,89,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"random slope","none",0.2,-0.3147107448397,-0.02,90,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"random slope","none",0.2,-0.41,-0.06,91,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"random slope","none",0.2,-0.41,-0.06,92,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random slope","none",0.2,-0.3147107448397,-0.02,93,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random slope","none",0.2,-0.3147107448397,-0.02,94,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random slope","none",0.2,-0.41,-0.06,95,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random slope","none",0.2,-0.41,-0.06,96,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"none","random intercept",0.2,0,0,97,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"none","random intercept",0.2,0,0,98,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"none","random intercept",0.2,0,0,99,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"none","random intercept",0.2,0,0,100,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"none","random intercept",0.2,0,0,101,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"none","random intercept",0.2,0,0,102,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"none","random intercept",0.2,0,0,103,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"none","random intercept",0.2,0,0,104,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"none","random intercept",0.2,0,0,105,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"none","random intercept",0.2,0,0,106,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"none","random intercept",0.2,0,0,107,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"none","random intercept",0.2,0,0,108,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"none","random intercept",0.2,0,0,109,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"none","random intercept",0.2,0,0,110,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"none","random intercept",0.2,0,0,111,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"none","random intercept",0.2,0,0,112,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"none","random intercept",0.2,-0.3147107448397,-0.02,113,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"none","random intercept",0.2,-0.3147107448397,-0.02,114,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"none","random intercept",0.2,-0.41,-0.06,115,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"none","random intercept",0.2,-0.41,-0.06,116,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"none","random intercept",0.2,-0.3147107448397,-0.02,117,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"none","random intercept",0.2,-0.3147107448397,-0.02,118,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"none","random intercept",0.2,-0.41,-0.06,119,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"none","random intercept",0.2,-0.41,-0.06,120,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"none","random intercept",0.2,-0.3147107448397,-0.02,121,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"none","random intercept",0.2,-0.3147107448397,-0.02,122,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"none","random intercept",0.2,-0.41,-0.06,123,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"none","random intercept",0.2,-0.41,-0.06,124,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"none","random intercept",0.2,-0.3147107448397,-0.02,125,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"none","random intercept",0.2,-0.3147107448397,-0.02,126,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"none","random intercept",0.2,-0.41,-0.06,127,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"none","random intercept",0.2,-0.41,-0.06,128,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"random intercept","random intercept",0.2,0,0,129,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"random intercept","random intercept",0.2,0,0,130,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"random intercept","random intercept",0.2,0,0,131,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"random intercept","random intercept",0.2,0,0,132,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"random intercept","random intercept",0.2,0,0,133,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"random intercept","random intercept",0.2,0,0,134,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"random intercept","random intercept",0.2,0,0,135,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"random intercept","random intercept",0.2,0,0,136,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"random intercept","random intercept",0.2,0,0,137,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"random intercept","random intercept",0.2,0,0,138,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"random intercept","random intercept",0.2,0,0,139,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"random intercept","random intercept",0.2,0,0,140,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"random intercept","random intercept",0.2,0,0,141,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"random intercept","random intercept",0.2,0,0,142,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"random intercept","random intercept",0.2,0,0,143,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"random intercept","random intercept",0.2,0,0,144,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"random intercept","random intercept",0.2,-0.3147107448397,-0.02,145,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"random intercept","random intercept",0.2,-0.3147107448397,-0.02,146,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"random intercept","random intercept",0.2,-0.41,-0.06,147,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"random intercept","random intercept",0.2,-0.41,-0.06,148,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","random intercept",0.2,-0.3147107448397,-0.02,149,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","random intercept",0.2,-0.3147107448397,-0.02,150,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","random intercept",0.2,-0.41,-0.06,151,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","random intercept",0.2,-0.41,-0.06,152,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"random intercept","random intercept",0.2,-0.3147107448397,-0.02,153,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"random intercept","random intercept",0.2,-0.3147107448397,-0.02,154,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"random intercept","random intercept",0.2,-0.41,-0.06,155,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"random intercept","random intercept",0.2,-0.41,-0.06,156,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","random intercept",0.2,-0.3147107448397,-0.02,157,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","random intercept",0.2,-0.3147107448397,-0.02,158,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","random intercept",0.2,-0.41,-0.06,159,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","random intercept",0.2,-0.41,-0.06,160,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"random slope","random intercept",0.2,0,0,161,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"random slope","random intercept",0.2,0,0,162,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"random slope","random intercept",0.2,0,0,163,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"random slope","random intercept",0.2,0,0,164,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"random slope","random intercept",0.2,0,0,165,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"random slope","random intercept",0.2,0,0,166,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"random slope","random intercept",0.2,0,0,167,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"random slope","random intercept",0.2,0,0,168,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"random slope","random intercept",0.2,0,0,169,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"random slope","random intercept",0.2,0,0,170,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"random slope","random intercept",0.2,0,0,171,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"random slope","random intercept",0.2,0,0,172,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"random slope","random intercept",0.2,0,0,173,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"random slope","random intercept",0.2,0,0,174,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"random slope","random intercept",0.2,0,0,175,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"random slope","random intercept",0.2,0,0,176,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"random slope","random intercept",0.2,-0.3147107448397,-0.02,177,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"random slope","random intercept",0.2,-0.3147107448397,-0.02,178,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"random slope","random intercept",0.2,-0.41,-0.06,179,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"random slope","random intercept",0.2,-0.41,-0.06,180,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random slope","random intercept",0.2,-0.3147107448397,-0.02,181,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random slope","random intercept",0.2,-0.3147107448397,-0.02,182,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random slope","random intercept",0.2,-0.41,-0.06,183,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random slope","random intercept",0.2,-0.41,-0.06,184,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"random slope","random intercept",0.2,-0.3147107448397,-0.02,185,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"random slope","random intercept",0.2,-0.3147107448397,-0.02,186,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"random slope","random intercept",0.2,-0.41,-0.06,187,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"random slope","random intercept",0.2,-0.41,-0.06,188,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random slope","random intercept",0.2,-0.3147107448397,-0.02,189,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random slope","random intercept",0.2,-0.3147107448397,-0.02,190,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random slope","random intercept",0.2,-0.41,-0.06,191,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random slope","random intercept",0.2,-0.41,-0.06,192,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"none","random slope",0.2,0,0,193,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"none","random slope",0.2,0,0,194,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"none","random slope",0.2,0,0,195,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"none","random slope",0.2,0,0,196,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"none","random slope",0.2,0,0,197,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"none","random slope",0.2,0,0,198,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"none","random slope",0.2,0,0,199,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"none","random slope",0.2,0,0,200,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"none","random slope",0.2,0,0,201,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"none","random slope",0.2,0,0,202,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"none","random slope",0.2,0,0,203,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"none","random slope",0.2,0,0,204,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"none","random slope",0.2,0,0,205,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"none","random slope",0.2,0,0,206,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"none","random slope",0.2,0,0,207,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"none","random slope",0.2,0,0,208,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"none","random slope",0.2,-0.3147107448397,-0.02,209,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"none","random slope",0.2,-0.3147107448397,-0.02,210,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"none","random slope",0.2,-0.41,-0.06,211,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"none","random slope",0.2,-0.41,-0.06,212,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"none","random slope",0.2,-0.3147107448397,-0.02,213,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"none","random slope",0.2,-0.3147107448397,-0.02,214,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"none","random slope",0.2,-0.41,-0.06,215,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"none","random slope",0.2,-0.41,-0.06,216,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"none","random slope",0.2,-0.3147107448397,-0.02,217,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"none","random slope",0.2,-0.3147107448397,-0.02,218,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"none","random slope",0.2,-0.41,-0.06,219,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"none","random slope",0.2,-0.41,-0.06,220,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"none","random slope",0.2,-0.3147107448397,-0.02,221,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"none","random slope",0.2,-0.3147107448397,-0.02,222,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"none","random slope",0.2,-0.41,-0.06,223,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"none","random slope",0.2,-0.41,-0.06,224,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"random intercept","random slope",0.2,0,0,225,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"random intercept","random slope",0.2,0,0,226,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"random intercept","random slope",0.2,0,0,227,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"random intercept","random slope",0.2,0,0,228,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"random intercept","random slope",0.2,0,0,229,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"random intercept","random slope",0.2,0,0,230,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"random intercept","random slope",0.2,0,0,231,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"random intercept","random slope",0.2,0,0,232,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"random intercept","random slope",0.2,0,0,233,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"random intercept","random slope",0.2,0,0,234,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"random intercept","random slope",0.2,0,0,235,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"random intercept","random slope",0.2,0,0,236,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"random intercept","random slope",0.2,0,0,237,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"random intercept","random slope",0.2,0,0,238,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"random intercept","random slope",0.2,0,0,239,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"random intercept","random slope",0.2,0,0,240,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"random intercept","random slope",0.2,-0.3147107448397,-0.02,241,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"random intercept","random slope",0.2,-0.3147107448397,-0.02,242,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"random intercept","random slope",0.2,-0.41,-0.06,243,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"random intercept","random slope",0.2,-0.41,-0.06,244,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","random slope",0.2,-0.3147107448397,-0.02,245,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","random slope",0.2,-0.3147107448397,-0.02,246,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","random slope",0.2,-0.41,-0.06,247,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random intercept","random slope",0.2,-0.41,-0.06,248,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"random intercept","random slope",0.2,-0.3147107448397,-0.02,249,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"random intercept","random slope",0.2,-0.3147107448397,-0.02,250,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"random intercept","random slope",0.2,-0.41,-0.06,251,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"random intercept","random slope",0.2,-0.41,-0.06,252,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","random slope",0.2,-0.3147107448397,-0.02,253,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","random slope",0.2,-0.3147107448397,-0.02,254,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","random slope",0.2,-0.41,-0.06,255,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random intercept","random slope",0.2,-0.41,-0.06,256,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",1,"random slope","random slope",0.2,0,0,257,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",1,"random slope","random slope",0.2,0,0,258,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",1,"random slope","random slope",0.2,0,0,259,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",1,"random slope","random slope",0.2,0,0,260,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",1,"random slope","random slope",0.2,0,0,261,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",1,"random slope","random slope",0.2,0,0,262,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",1,"random slope","random slope",0.2,0,0,263,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",1,"random slope","random slope",0.2,0,0,264,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","no effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",1,"random slope","random slope",0.2,0,0,265,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",1,"random slope","random slope",0.2,0,0,266,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",1,"random slope","random slope",0.2,0,0,267,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",1,"random slope","random slope",0.2,0,0,268,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",1,"random slope","random slope",0.2,0,0,269,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",1,"random slope","random slope",0.2,0,0,270,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",1,"random slope","random slope",0.2,0,0,271,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",1,"random slope","random slope",0.2,0,0,272,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","no effect",100,10
+-1.499,-2.35,0,"50 clusters of 20 - unbl",0.8,"random slope","random slope",0.2,-0.3147107448397,-0.02,273,"trt prev 20%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0,"50 clusters of 20 - unbl",0.8,"random slope","random slope",0.2,-0.3147107448397,-0.02,274,"trt prev 50%","out control 10%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0,"50 clusters of 20 - unbl",0.8,"random slope","random slope",0.2,-0.41,-0.06,275,"trt prev 20%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0,"50 clusters of 20 - unbl",0.8,"random slope","random slope",0.2,-0.41,-0.06,276,"trt prev 50%","out control 30%","no corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random slope","random slope",0.2,-0.3147107448397,-0.02,277,"trt prev 20%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-2.35,0.5,"50 clusters of 20 - unbl",0.8,"random slope","random slope",0.2,-0.3147107448397,-0.02,278,"trt prev 50%","out control 10%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random slope","random slope",0.2,-0.41,-0.06,279,"trt prev 20%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+0.15,-0.63,0.5,"50 clusters of 20 - unbl",0.8,"random slope","random slope",0.2,-0.41,-0.06,280,"trt prev 50%","out control 30%","corr","50 clusters of 20 - unbl","moderate effect",50,20
+-1.499,-2.35,0,"100 clusters of 10 - unbl",0.8,"random slope","random slope",0.2,-0.3147107448397,-0.02,281,"trt prev 20%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0,"100 clusters of 10 - unbl",0.8,"random slope","random slope",0.2,-0.3147107448397,-0.02,282,"trt prev 50%","out control 10%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0,"100 clusters of 10 - unbl",0.8,"random slope","random slope",0.2,-0.41,-0.06,283,"trt prev 20%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0,"100 clusters of 10 - unbl",0.8,"random slope","random slope",0.2,-0.41,-0.06,284,"trt prev 50%","out control 30%","no corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random slope","random slope",0.2,-0.3147107448397,-0.02,285,"trt prev 20%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-2.35,0.5,"100 clusters of 10 - unbl",0.8,"random slope","random slope",0.2,-0.3147107448397,-0.02,286,"trt prev 50%","out control 10%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+-1.499,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random slope","random slope",0.2,-0.41,-0.06,287,"trt prev 20%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
+0.15,-0.63,0.5,"100 clusters of 10 - unbl",0.8,"random slope","random slope",0.2,-0.41,-0.06,288,"trt prev 50%","out control 30%","corr","100 clusters of 10 - unbl","moderate effect",100,10
