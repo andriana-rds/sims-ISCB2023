@@ -16,7 +16,7 @@ Import function to simulate the independent covariates (file: cancerDataDesign.R
 Import functions to simulate the treatment and the potential outcomes (files SimulTreat.R \& SimulOut.R)
 
 # Step 5: 
-Generate a .csv file with the DGM indices
+Generate a .csv file with the Data Generating Mechnaism (DGM) indices (file dgm_index.R generates the respective dgm_index.csv document, which provides a detailed description for each of the 288 assumed DGMs).
 
 # Step 6: 
 Combine all functions into one and run via an HPC (file simdata_hpc.R) 
